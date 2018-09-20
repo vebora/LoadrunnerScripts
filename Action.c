@@ -1,7 +1,8 @@
 Action()
 {
+		char *s;
 	lr_load_dll("GUUID.dll");
-	char *s;
+
 
 	//hello
 	web_url("web_url",
@@ -11,7 +12,7 @@ Action()
 		"Referer=",
 		LAST);
 
-	s=Class1.GenerateGuid(12);
+//	s=Class1.GenerateGuid(12);
 	
 	return 0;
 }
