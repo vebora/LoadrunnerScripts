@@ -54,7 +54,7 @@ Order=
 [StateManagement]
 LastReplayStatus=0
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [ManuallyExtraFiles]
 GUUID.dll=

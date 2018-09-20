@@ -3,7 +3,7 @@ Action()
 	lr_load_dll("GUUID.dll");
 	char *s;
 
-
+	//hello
 	web_url("web_url",
 		"URL=http://www.google.com",
 		"TargetFrame=",
